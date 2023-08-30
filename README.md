@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
-<h3 align="center">A DAta analyst, Pune, maharashtra 🇨🇦</h3>
+<h3 align="center">I'm python developer in Data Science, Pune, maharashtra 🇨🇦</h3>
 
 <br/>
 
